@@ -29,8 +29,6 @@ I’m determined to:
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/bugraalpaslan)
-- [Twitter](https://x.com/bugraalpaslan0)
 - [Email](mailto:alpaslanbugra0@gmail.com)
-- [Instagram](https://www.instagram.com/bugraalpaslan/)
 
 Let's collaborate on open-source projects or discuss freelance opportunities!
