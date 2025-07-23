@@ -35,6 +35,8 @@ Building expertise in **security systems architecture** and **threat detection m
 ### **Security Tools**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
 
 ### **Security Specializations**
 ![Threat Analysis](https://img.shields.io/badge/Threat-Analysis-orange?style=flat&logoColor=white)
