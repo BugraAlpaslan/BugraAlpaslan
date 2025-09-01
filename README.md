@@ -5,7 +5,7 @@
 Currently studying **Computer Engineering** at **Marmara University** while working towards becoming a **professional security engineer**.
 
 ### Current Focus
-Building expertise in **security systems architecture** and **threat detection mechanisms** to become a well-rounded cybersecurity professional.
+Building expertise in **endpoint detection and response** and **threat detection mechanisms** to become a cybersecurity professional.
 
 ## Technical Stack
 
@@ -16,12 +16,13 @@ Building expertise in **security systems architecture** and **threat detection m
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### **Operating Systems**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white&labelColor=000000&color=white&fontFamily=SF%20Pro%20Text&fontWeight=bold)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
 
 ### **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
