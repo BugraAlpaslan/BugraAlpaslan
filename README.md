@@ -8,7 +8,7 @@ Building expertise in **endpoint detection and response**, **kernel-level securi
 
 ## GitHub Stats
 ![Bugra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BugraAlpaslan&show_icons=true&theme=dark&count_private=true)   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BugraAlpaslan&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAlpaslan&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAlpaslan&layout=compac&theme=dark)
 
   
 
