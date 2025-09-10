@@ -69,6 +69,6 @@ Building expertise in **endpoint detection and response**, **kernel-level securi
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alpaslanbugra0@gmail.com)
 
 ---
-*"Security is not a product, but a process"* - Building robust systems, one commit at a time.
+*Building robust systems, one commit at a time.* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BugraAlpaslan&color=blue)
