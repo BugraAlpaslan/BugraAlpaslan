@@ -19,6 +19,7 @@ Building expertise in **endpoint detection and response**, **kernel-level securi
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### **Operating Systems**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
