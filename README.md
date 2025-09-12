@@ -59,9 +59,10 @@ Building expertise in **endpoint detection and response**, **kernel-level securi
 
 ## Open to Collaboration
 - **Cybersecurity projects**
+- **Kernel-level security research**
 - **Cloud security implementations**
 - **Security architecture design**
-- **Kernel-level security research**
+- **Resaonable preneurships**
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bugraalpaslan/)
