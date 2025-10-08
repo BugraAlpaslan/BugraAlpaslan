@@ -5,9 +5,9 @@
 
 ---
 
-## 🎯 Current Focus
-- 🔍 SOC Operations & Alert Analysis
-- 📝 Detection Rule Development  
+## Current Focus
+-  SOC Operations & Alert Analysis
+-  Detection Rule Development  
 - 🔬 Windows Internals (Fundamentals)
 
 ---
@@ -18,7 +18,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BugraAlpaslan&layout=compact&theme=dark)
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 
-## 🎯 Focus Areas
+##  Focus Areas
 
 **Security Operations & Detection**
 - Alert triage & investigation
